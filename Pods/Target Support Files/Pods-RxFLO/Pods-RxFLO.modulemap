@@ -1,0 +1,6 @@
+framework module Pods_RxFLO {
+  umbrella header "Pods-RxFLO-umbrella.h"
+
+  export *
+  module * { export * }
+}
